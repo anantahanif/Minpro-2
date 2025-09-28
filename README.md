@@ -1,7 +1,8 @@
 # Minpro-2
 Nama: Ananta Hanif Fidzya Pratama NIM: 2509116023 Kelas: Sistem Informasi A'2025 
 
-<img width="1871" height="1520" alt="Flowchart Minpro 2 Ananta drawio" src="https://github.com/user-attachments/assets/84e9bc1a-4012-4e5f-abcf-27a1afcfd359" />
+<img width="1871" height="1560" alt="flowchart minpro 2 atha drawio" src="https://github.com/user-attachments/assets/ff0f3fa0-5a64-4347-9142-7f1baf3051a3" />
+
 
 
 tampilan menu awal login sebagai boss
